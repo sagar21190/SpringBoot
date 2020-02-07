@@ -1,0 +1,13 @@
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/Main.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/rest/subtraction/HomeController.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/registration/EurekaServer.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/web/WebAdditionService.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/rest/subtraction/SubtractionController.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/web/WebServer.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/web/WebArithmeticController.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/rest/subtraction/SubtractionServer.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/rest/addition/HomeController.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/web/HomeController.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/web/WebSubtractionService.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/rest/addition/AdditionController.java
+/home/mobileware37/git/spring-boot-microservices/src/main/java/com/javacodegeeks/example/rest/addition/AdditionServer.java
